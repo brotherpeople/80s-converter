@@ -1,0 +1,11 @@
+venv/
+venv39/
+__pycache__/
+*.pyc
+
+# audio test material / generated outputs — not tracked
+*.mp3
+*.wav
+*.mid
+separated/
+midi_output/
